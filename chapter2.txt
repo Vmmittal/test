@@ -1,1 +1,1 @@
-This is chapter 2 of git.  changed
+This is chapter 2 alien-plot branch of git.  changed
